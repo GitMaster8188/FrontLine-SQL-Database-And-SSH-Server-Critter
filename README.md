@@ -13,6 +13,7 @@ This is very helpful when an attacker wants to gain some information from a spec
   <li><b>--download-remote-file</b>: type and press te enter key to execute. This type of command do the vice versa of the above command, it download file/s from the <b>SSH Server</b> and save it to the local directories. There's also two inputs the script will gonna ask, <b>Remote File Path</b> (<i>asking the user to enter the compelete path of the file the user wants to download</i>), <b>Local Path</b> (<i>asking to enter the path or the directory where the downloaded remote file will be stored</i>).</li>
 </ul><br/>
 <b>Using --upload-local-file</b><br/>
+
 ![alt text](https://user-images.githubusercontent.com/45601866/74913166-14dac600-53fb-11ea-91e1-3c1a96f2d80c.png)
 
 <b>Using --download-remote-file</b><br/>
