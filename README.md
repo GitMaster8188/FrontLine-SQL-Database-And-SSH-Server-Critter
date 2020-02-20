@@ -7,4 +7,7 @@ In cryptography, a brute-force attack consists of an attacker submitting many pa
 The script can access any <b>SSH Servers</b> once the correct passphrase is found during the loads of brute forcing. When the script finally accessed the SSH Server, the user can now navigate to different directories stored in the server, also can <b>create, read, update, and delete</b> different files and execute some critical commands such as <b>rm or rmdir</b> to delete files or directories, run jobs and processes saved in the server and many more. The user can also upload shell scripts that can quickly and easily manipulate files. 
 This is very helpful when an attacker wants to gain some information from a specific company, or even delete their back ups and permanent files the companies is using in a daily basis.<br/>
 
-<b>Below are the special commands that you can run for alternatives.</b>
+<b>Below are the special commands that you can run for alternatives.</b><br/>
+<ul>
+  <li><b>--upload-local-file</b>: you can type and press the enter key to execute this type of command to start uploading a local file from your computer to the <b>SSH Server</b>. Once executed, the script will going to ask for two inputs, <b>Remote File Path</b> (asking the user to enter the specific path in where the uploaded file will be stored), <b>Local File Path</b> (ther will be a prompt window for the user to choose a single or multiple files he/she wants to upload to the server). If all things are okay, the script will now going to upload the selected file/s to the <b>SSH Server</b></li>
+</ul>
