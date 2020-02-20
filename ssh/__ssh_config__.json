@@ -1,0 +1,18 @@
+{
+    "SSH": {
+        "Default": {
+            "Hostname": "USCHDELINF4001V",
+            "Username": "informtp",
+            "Password": "qD4Jj1Hy@123"
+        },
+        "Query-Numbers": "*",
+        "Banner": "ssh.banner",
+        "Message": "Welcome to SSH Server Connection, you can now browse files that are\n    being passed in the server, access directories, download remote files\n    and upload local files ...",
+        "Profiles": [
+            { "USCHDELINF4001V": { "Username": "informtp", "Password": "qD4Jj1Hy@123" }},
+            { "USCHDELINF1001V": { "Username": "informtp", "Password": "qD4Jj1Hy@123" }},
+            { "USCHDELINF1001V": { "Username": "mgln", "Password": "cD8Ok7Sz" }},
+            { "USCHDELINF1001V": { "Username": "svc_gdw", "Password": "Ingram@123" }}
+        ]
+    }
+}
