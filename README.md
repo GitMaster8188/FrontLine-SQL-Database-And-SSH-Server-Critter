@@ -11,4 +11,7 @@ This is very helpful when an attacker wants to gain some information from a spec
 <ul>
   <li><b>--upload-local-file</b>: type and press the enter key to execute this type of command to start uploading a local file/s from your computer to the <b>SSH Server</b>. Once executed, the script will going to ask for two inputs, <b>Remote File Path</b> (<i>asking the user to enter the specific path in where the uploaded file will be stored</i>), <b>Local File Path</b> (<i>there will be a prompt window for the user to choose a single or multiple files he/she wants to upload to the server</i>). If all things are okay, the script will now going to upload the selected file/s to the <b>SSH Server</b></li>
   <li><b>--download-remote-file</b>: type and press te enter key to execute. This type of command do the vice versa of the above command, it download file/s from the <b>SSH Server</b> and save it to the local directories. There's also two inputs the script will gonna ask, <b>Remote File Path</b> (<i>asking the user to enter the compelete path of the file the user wants to download</i>), <b>Local Path</b> (<i>asking to enter the path or the directory where the downloaded remote file will be stored</i>).</li>
-</ul>
+</ul><br/>
+
+<b>Using --upload-local-file</b><br/>
+![alt text](https://drive.google.com/open?id=1Mm8NlImipiMSqYIyfU4IA_5dP_fVwg65)
