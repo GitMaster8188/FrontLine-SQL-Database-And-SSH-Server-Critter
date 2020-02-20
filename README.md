@@ -20,4 +20,5 @@ This is very helpful when an attacker wants to gain some information from a spec
 ![alt text](https://user-images.githubusercontent.com/45601866/74913162-13110280-53fb-11ea-8dfc-cee3d3507e44.png)
 
 You can check if the file was successfully uploaded by executing <b>ls -lrt</b> command in the FrontLine Terminal, just type <i>cd /some/directory/; ls -lrt</i>...
+
 Also the same thing when checking if you have successfully downloaded the file from the remote server, just browse in the selected directory in where you have enter the directory of the downloaded file.
