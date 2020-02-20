@@ -14,4 +14,4 @@ This is very helpful when an attacker wants to gain some information from a spec
 </ul><br/>
 
 <b>Using --upload-local-file</b><br/>
-![alt text](https://drive.google.com/open?id=1Mm8NlImipiMSqYIyfU4IA_5dP_fVwg65)
+![alt text](https://user-images.githubusercontent.com/45601866/74913166-14dac600-53fb-11ea-91e1-3c1a96f2d80c.png)
