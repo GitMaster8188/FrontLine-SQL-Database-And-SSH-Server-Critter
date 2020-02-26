@@ -5,7 +5,7 @@
 In cryptography, a brute-force attack consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found.
 
 # Oracle SQL Database Server
-![alt text](https://user-images.githubusercontent.com/45601866/75333526-3c310780-58c1-11ea-88d8-1cd6dea1abb5.png)
+![alt text](https://user-images.githubusercontent.com/45601866/75333738-a21d8f00-58c1-11ea-9ba8-fbf1f2c4c847.png)
 
 The script can easily access and dig into Database Structures, Millions of Data, Table Structures, Schemas and more using <b>Oracle SQL Database</b> ......
 
