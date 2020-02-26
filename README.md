@@ -4,6 +4,11 @@
 <b>What is a Brute Force ?</b><br/>
 In cryptography, a brute-force attack consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found.
 
+# Oracle SQL Database Server
+![alt text](https://user-images.githubusercontent.com/45601866/75333526-3c310780-58c1-11ea-88d8-1cd6dea1abb5.png)
+
+The script can easily access and dig into Database Structures, Millions of Data, Table Structures, Schemas and more using <b>Oracle SQL Database</b> ......
+
 # SSH Server
 ![alt text](https://user-images.githubusercontent.com/45601866/74913855-69cb0c00-53fc-11ea-9513-763c70206107.png)
 
