@@ -10,6 +10,7 @@ from tkinter import Tk, filedialog
 
 class SSH_Server(object):
     def __init__(self, ssh_credentials: list):
+        super().__init__()
         self.ssh_credentials = ssh_credentials
         self.SSH = SSHClient()
     
@@ -116,7 +117,7 @@ with open(file=r"__ssh_config__.json", mode="r", encoding="utf-8") as ssh_config
     ssh_config.close()
 
 # load banner file from configurations and message
-print(Fore.LIGHTGREEN_EX + open(file=r"%s" % config_file["SSH"]["Banner"], mode="r", encoding="utf-8").read())
+print(Fore.RED + open(file=r"%s" % config_file["SSH"]["Banner"], mode="r", encoding="utf-8").read())
 time.sleep(1.5)
 micro_stamp(Fore.YELLOW + "%s%s" % (chr(32)*4, config_file["SSH"]["Message"]))
 time.sleep(0.05)
