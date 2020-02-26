@@ -7,7 +7,8 @@ In cryptography, a brute-force attack consists of an attacker submitting many pa
 # Oracle SQL Database Server
 ![alt text](https://user-images.githubusercontent.com/45601866/75333738-a21d8f00-58c1-11ea-9ba8-fbf1f2c4c847.png)
 
-The script can easily access and dig into Database Structures, Millions of Data, Table Structures, Schemas and more using <b>Oracle SQL Database</b> ......
+The script can also easily access and dig into Database Structures, Hundreds and Thousands of Data, Table Structures, Schemas and more using the Brute Force Attack with <b>Oracle SQL Database</b>. Once the correct passphrase successfully loaded and match the exact credentials needed to access the server, the user can now execute <b>Oracle SQL Commands</b> that could fetch certain data from the database, manipulate the database and even do some critical executions such as to <b>Truncate, Drop, Delete, Create, Alter etc</b> the following tables inside the DB.<br/>
+You can navigate through <a href="https://docs.oracle.com/cd/E11882_01/server.112/e41085/sqlqr01001.htm#SQLQR110" target="_blank"> here </a> to browse for more <b>Oracle SQL Statement Syntax</b> that you can use here 
 
 # SSH Server
 ![alt text](https://user-images.githubusercontent.com/45601866/74913855-69cb0c00-53fc-11ea-9513-763c70206107.png)
