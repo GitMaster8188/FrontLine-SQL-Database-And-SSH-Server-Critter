@@ -1,0 +1,16 @@
+{
+    "Oracle": {
+        "Default": {
+            "Hostname": "None",
+            "Username": "None",
+            "Password": "None",
+            "Port": 0,
+            "Database": "None"
+        },
+        "Banner": "oracle.banner",
+        "Message": "",
+        "Profiles": [
+            
+        ]
+    }
+}
