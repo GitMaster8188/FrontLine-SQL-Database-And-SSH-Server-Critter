@@ -12,7 +12,7 @@ The script can also easily access and dig into Database Structures, Hundreds and
 You can navigate through <a href="https://docs.oracle.com/cd/E11882_01/server.112/e41085/sqlqr01001.htm#SQLQR110" target="_blank"> here </a> to browse for more <b>Oracle SQL Statement Syntax</b> that you can use here 
 
 # SSH Server
-![alt text](https://user-images.githubusercontent.com/45601866/74913855-69cb0c00-53fc-11ea-9513-763c70206107.png)
+![74913855-69cb0c00-53fc-11ea-9513-763c70206107](https://user-images.githubusercontent.com/45601866/75428545-56331e80-5983-11ea-8986-b75db6e73fb0.png)
 
 The script can access any <b>SSH Servers</b> once the correct passphrase is found during the loads of brute forcing. When the script finally accessed the SSH Server, the user can now navigate to different directories stored in the server, also can <b>create, read, update, and delete</b> different files and execute some critical commands such as <b>rm or rmdir</b> to delete files or directories, run jobs and processes saved in the server and many more. The user can also upload shell scripts that can quickly and easily manipulate files. 
 This is very helpful when an attacker wants to gain some information from a specific company, or even delete their back ups and permanent files the companies is using in a daily basis.<br/>
@@ -24,10 +24,10 @@ This is very helpful when an attacker wants to gain some information from a spec
 </ul><br/>
 <b>Using --upload-local-file</b><br/>
 
-![alt text](https://user-images.githubusercontent.com/45601866/74913166-14dac600-53fb-11ea-91e1-3c1a96f2d80c.png)
+![74913166-14dac600-53fb-11ea-91e1-3c1a96f2d80c](https://user-images.githubusercontent.com/45601866/75428460-2edc5180-5983-11ea-9752-cd98d0e82a6d.png)
 
 <b>Using --download-remote-file</b><br/>
-![alt text](https://user-images.githubusercontent.com/45601866/74913162-13110280-53fb-11ea-8dfc-cee3d3507e44.png)
+![74913162-13110280-53fb-11ea-8dfc-cee3d3507e44](https://user-images.githubusercontent.com/45601866/75428525-4adff300-5983-11ea-8621-15df12a7d2e7.png)
 
 You can check if the file was successfully uploaded by executing <b>ls -lrt</b> command in the FrontLine Terminal, just type <i>cd /some/directory/; ls -lrt</i>...
 
